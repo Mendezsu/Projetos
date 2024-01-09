@@ -1,6 +1,6 @@
-# Projeto de Criação de Sites
+# Projeto de criação da alura
 
-Um projeto dedicado à criação de sites incríveis.
+Um projeto dedicado à criação de aluraa incríveis.
 
 ## Descrição do Projeto
 
